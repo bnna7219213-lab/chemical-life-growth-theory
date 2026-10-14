@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it using these metadata.
+title: "新的生命形态与成体生长理论：化学视角 (Chemical Perspectives on New Life Forms and Adult Growth Theory)"
+abstract: >
+  Theory-first stochastic models of chemical signals and living tissue
+  states. The current project snapshot contains a formal model specification
+  (v0.1) targeting mouse intestinal epithelium, with no executable
+  simulation yet. The repository is a research plan / early-stage
+  prototype, not a validated biological prediction tool.
+type: software
+authors:
+  - name: Claude
+repository-code: https://github.com/bnna7219213-lab/chemical-life-growth-theory
+license: MIT
+license-documents: CC-BY-4.0
+version: 0.1.0
+keywords:
+  - chemistry
+  - chemical-kinetics
+  - stochastic-processes
+  - cell-state-transitions
+  - tissue-homeostasis
+  - intestinal-epithelium
+  - theoretical-biology
+  - open-system-modeling
+preferred-citation:
+  title: "新的生命形态与成体生长理论：化学视角"
+  authors:
+    - name: Claude
+  year: 2026
